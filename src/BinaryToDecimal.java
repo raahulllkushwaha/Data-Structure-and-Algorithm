@@ -18,5 +18,8 @@ public class BinaryToDecimal {
         System.out.println("Enter Binary number to convert it into Decimal number: ");
         int n = sc.nextInt();
         BinToDec(n);
+
+        sc.close();;
     }
+
 }
