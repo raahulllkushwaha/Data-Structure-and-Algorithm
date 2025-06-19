@@ -4,15 +4,22 @@ public class SubArray {
     public static void printSubArray(int[] arr) {
         int totalSubArray = 0;
         for (int i = 0; i < arr.length; i++) {
+            int sum = 0;
             int start = i;
+
             for (int j = i; j < arr.length; j++) {
+                sum += arr[j];
                 int end = j;
+
                 for (int k = start; k <= end; k++) {
                     System.out.print(arr[k] + " ");
+
                 }
                 totalSubArray++;
+                System.out.println(" -------> Sum is: " + sum + "\n");
                 System.out.println();
             }
+            System.out.println(sum);
             System.out.println();
         }
         System.out.println("Total Sub Arrays are: " + totalSubArray);
