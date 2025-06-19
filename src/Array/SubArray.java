@@ -17,12 +17,19 @@ public class SubArray {
                 totalSum += sum;
                 int end = j;
 
+                int maxVal = arr[i];
+                int minVal = arr[i];
                 for (int k = start; k <= end; k++) {
                     System.out.print(arr[k] + " ");
-
+                    if(arr[k] > maxVal) {
+                        maxVal = arr[k];
+                    }
+                    else{
+                        minVal = arr[k];
+                    }
                 }
                 totalSubArray++;
-                System.out.println(" -------> Sum is: " + sum);
+                System.out.println(" ---> Sum = " + sum + ", Max = " + maxVal + ", Min = " + minVal);
                 System.out.println();
             }
             System.out.println("Sum of this iteration's subarray sums: " + iterationSum);
