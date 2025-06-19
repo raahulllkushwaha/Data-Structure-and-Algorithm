@@ -1,14 +1,20 @@
 package Array;
+
 import java.util.Scanner;
+
 public class SubArray {
     public static void printSubArray(int[] arr) {
         int totalSubArray = 0;
+        int totalSum = 0;
         for (int i = 0; i < arr.length; i++) {
             int sum = 0;
+            int iterationSum = 0;
             int start = i;
 
             for (int j = i; j < arr.length; j++) {
                 sum += arr[j];
+                iterationSum += sum;
+                totalSum += sum;
                 int end = j;
 
                 for (int k = start; k <= end; k++) {
@@ -16,14 +22,16 @@ public class SubArray {
 
                 }
                 totalSubArray++;
-                System.out.println(" -------> Sum is: " + sum + "\n");
+                System.out.println(" -------> Sum is: " + sum);
                 System.out.println();
             }
-            System.out.println(sum);
+            System.out.println("Sum of this iteration's subarray sums: " + iterationSum);
             System.out.println();
         }
         System.out.println("Total Sub Arrays are: " + totalSubArray);
+        System.out.println("And the total sum is: " + totalSum);
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of the Array: ");
