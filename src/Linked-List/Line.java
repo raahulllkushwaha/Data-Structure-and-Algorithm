@@ -9,11 +9,12 @@ public class Line{
     }
     public static Node head;
     public static Node tail;
+    public static int size;
 
     public void addFirst(int data){
         // step 1 = create new node
         Node newNode = new Node(data);
-
+        size++;
         if(head == null){
             head = tail = newNode;
             return;
@@ -28,7 +29,7 @@ public class Line{
 
     public void addLast(int data){
         Node newNode = new Node(data);
-
+        size++;
         if(head == null){
             head = tail = newNode;
             return;
@@ -60,9 +61,9 @@ public class Line{
             addFirst(data);
             return;
         }
-        
+
         Node newNode = new Node(data);
-        
+        size++;
         Node temp = head;
         int i = 0;
 
@@ -83,13 +84,15 @@ public class Line{
         
         ll.addFirst(1);
         
-        ll.addLast(3);
-        
         ll.addLast(4);
+        
+        ll.addLast(5);
         ll.print();
 
-        ll.addIndex(2, 7);
+        ll.addIndex(2, 3);
         ll.print();
+        
+        System.out.println("The size of the Linked List: " + size);
         
     }
 }
