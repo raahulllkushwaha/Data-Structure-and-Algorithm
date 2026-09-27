@@ -149,4 +149,12 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
