@@ -176,4 +176,12 @@ Happy Coding! 🎉
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
