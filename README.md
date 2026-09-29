@@ -145,6 +145,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -187,5 +188,10 @@ Happy Coding! 🎉
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
