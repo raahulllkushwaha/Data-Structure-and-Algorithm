@@ -6,11 +6,11 @@ class Solution {
         while(low < high){
             int mid = low + (high - low) / 2;
             if(arr[mid] < arr[mid + 1]){
-               low++;
+               low = mid + 1;
             }
             else if(arr[mid] > arr[mid + 1]){
                 result = mid;
-                high--;
+                high = mid;
             }
             
         }
