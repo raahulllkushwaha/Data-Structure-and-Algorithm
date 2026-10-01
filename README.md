@@ -136,5 +136,10 @@ Happy Coding! 🎉
 ## Ternary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
