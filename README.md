@@ -121,6 +121,7 @@ Happy Coding! 🎉
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
@@ -144,4 +145,5 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
