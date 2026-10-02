@@ -112,6 +112,7 @@ Happy Coding! 🎉
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Happy Coding! 🎉
 | [0374-guess-number-higher-or-lower](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
 | ------- |
