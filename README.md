@@ -114,6 +114,7 @@ Happy Coding! 🎉
 | [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
@@ -133,6 +134,7 @@ Happy Coding! 🎉
 | [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2226-maximum-candies-allocated-to-k-children) |
