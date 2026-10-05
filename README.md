@@ -111,6 +111,7 @@ Happy Coding! 🎉
 | [0074-search-a-2d-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0275-h-index-ii) |
@@ -160,6 +161,7 @@ Happy Coding! 🎉
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
@@ -182,6 +184,7 @@ Happy Coding! 🎉
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
@@ -201,5 +204,10 @@ Happy Coding! 🎉
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
