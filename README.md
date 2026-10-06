@@ -75,6 +75,7 @@ Happy Coding! 🎉
 | [0012-integer-to-roman](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -97,12 +98,14 @@ Happy Coding! 🎉
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -187,6 +190,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Heap (Priority Queue)
 |  |
