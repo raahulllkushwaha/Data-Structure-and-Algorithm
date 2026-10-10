@@ -62,6 +62,7 @@ Happy Coding! 🎉
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Happy Coding! 🎉
 | [0301-remove-invalid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -193,6 +195,7 @@ Happy Coding! 🎉
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -210,6 +213,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -223,6 +227,7 @@ Happy Coding! 🎉
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
@@ -263,6 +268,7 @@ Happy Coding! 🎉
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
 | ------- |
