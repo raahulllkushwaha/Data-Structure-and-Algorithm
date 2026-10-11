@@ -72,6 +72,7 @@ Happy Coding! 🎉
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2235-add-two-integers) |
