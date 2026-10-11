@@ -73,6 +73,7 @@ Happy Coding! 🎉
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
