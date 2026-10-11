@@ -63,6 +63,7 @@ Happy Coding! 🎉
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+| [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Happy Coding! 🎉
 | [2235-add-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 ## String
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Happy Coding! 🎉
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -276,6 +279,7 @@ Happy Coding! 🎉
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+| [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -304,6 +308,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
+| [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 ## Geometry
 |  |
 | ------- |
