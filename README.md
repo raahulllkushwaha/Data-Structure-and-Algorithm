@@ -68,6 +68,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
@@ -200,6 +201,7 @@ Happy Coding! 🎉
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 ## Sorting
 |  |
