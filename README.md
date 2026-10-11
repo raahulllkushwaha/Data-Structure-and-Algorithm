@@ -76,6 +76,7 @@ Happy Coding! 🎉
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -298,4 +299,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
