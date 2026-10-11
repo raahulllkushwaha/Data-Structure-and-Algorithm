@@ -114,6 +114,7 @@ Happy Coding! 🎉
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
@@ -139,6 +140,7 @@ Happy Coding! 🎉
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
@@ -200,6 +202,7 @@ Happy Coding! 🎉
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
