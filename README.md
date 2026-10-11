@@ -169,6 +169,7 @@ Happy Coding! 🎉
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Happy Coding! 🎉
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Newton's Method
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Happy Coding! 🎉
 | ------- |
 | [0029-divide-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Sorting
 |  |
 | ------- |
@@ -323,4 +326,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Segment Tree
+|  |
+| ------- |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 <!---LeetCode Topics End-->
