@@ -72,6 +72,7 @@ Happy Coding! 🎉
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |
@@ -285,4 +286,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0301-remove-invalid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
