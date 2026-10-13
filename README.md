@@ -339,4 +339,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+## Database
+|  |
+| ------- |
+| [3475-dna-pattern-recognition](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3475-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
