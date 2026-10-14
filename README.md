@@ -168,6 +168,7 @@ Happy Coding! 🎉
 | [1046-last-stone-weight](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
+| [1646-get-maximum-in-generated-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1646-get-maximum-in-generated-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -327,6 +328,7 @@ Happy Coding! 🎉
 ## Simulation
 |  |
 | ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 ## Enumeration
 |  |
