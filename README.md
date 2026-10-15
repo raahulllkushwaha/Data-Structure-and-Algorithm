@@ -103,6 +103,7 @@ Happy Coding! 🎉
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Linked List
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Happy Coding! 🎉
 | [1646-get-maximum-in-generated-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1646-get-maximum-in-generated-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
