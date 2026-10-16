@@ -66,6 +66,7 @@ Happy Coding! 🎉
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +183,7 @@ Happy Coding! 🎉
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -360,6 +362,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Database
 |  |
@@ -369,4 +372,5 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
