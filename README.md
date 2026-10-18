@@ -88,6 +88,7 @@ Happy Coding! 🎉
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
