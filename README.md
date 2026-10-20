@@ -61,6 +61,7 @@ Happy Coding! 🎉
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
@@ -101,6 +102,7 @@ Happy Coding! 🎉
 | [0131-palindrome-partitioning](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
 | [0301-remove-invalid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0301-remove-invalid-parentheses) |
+| [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
@@ -245,6 +247,7 @@ Happy Coding! 🎉
 | [0136-single-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Sorting
@@ -255,6 +258,7 @@ Happy Coding! 🎉
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
