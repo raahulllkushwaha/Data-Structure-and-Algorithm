@@ -172,6 +172,7 @@ Happy Coding! 🎉
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
@@ -316,6 +317,7 @@ Happy Coding! 🎉
 | ------- |
 | [0022-generate-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
