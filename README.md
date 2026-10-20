@@ -166,6 +166,7 @@ Happy Coding! 🎉
 | [0039-combination-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
@@ -241,6 +242,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
