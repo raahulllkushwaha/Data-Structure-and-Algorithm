@@ -172,6 +172,7 @@ Happy Coding! 🎉
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -261,6 +262,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -382,6 +384,7 @@ Happy Coding! 🎉
 | [0022-generate-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
