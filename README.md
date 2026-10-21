@@ -59,6 +59,7 @@ Happy Coding! 🎉
 | ------- |
 | [0012-integer-to-roman](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
@@ -99,6 +100,7 @@ Happy Coding! 🎉
 | [0012-integer-to-roman](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0131-palindrome-partitioning](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
 | [0301-remove-invalid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0301-remove-invalid-parentheses) |
@@ -443,4 +445,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
