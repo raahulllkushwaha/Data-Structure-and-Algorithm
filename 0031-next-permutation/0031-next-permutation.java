@@ -9,9 +9,19 @@ class Solution {
             }
         }
         if(pivot == -1){
-            Arrays.sort(nums);
-            return;
+            int left = 0;
+            int right = n - 1;
+
+            while (left < right) {
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+
+            left++;
+            right--;
         }
+            return;
+    }
 
         for (int i = n - 1; i > pivot; i--){
             if(nums[i] > nums[pivot]){
