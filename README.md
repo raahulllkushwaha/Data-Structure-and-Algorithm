@@ -114,6 +114,7 @@ Happy Coding! 🎉
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
 |  |
 | ------- |
