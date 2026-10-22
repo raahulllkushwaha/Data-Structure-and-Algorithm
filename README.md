@@ -92,6 +92,7 @@ Happy Coding! 🎉
 | [2769-find-the-maximum-achievable-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
@@ -215,6 +216,7 @@ Happy Coding! 🎉
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
