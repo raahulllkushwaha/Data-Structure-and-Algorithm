@@ -121,6 +121,7 @@ Happy Coding! 🎉
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -313,6 +314,7 @@ Happy Coding! 🎉
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
