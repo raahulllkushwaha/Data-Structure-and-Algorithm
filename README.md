@@ -125,6 +125,7 @@ Happy Coding! 🎉
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -155,6 +156,7 @@ Happy Coding! 🎉
 | [0061-rotate-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Happy Coding! 🎉
 | [1646-get-maximum-in-generated-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
