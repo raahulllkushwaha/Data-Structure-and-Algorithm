@@ -134,6 +134,7 @@ Happy Coding! 🎉
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2942-find-words-containing-character](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3019-number-of-changing-keys) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
@@ -237,6 +238,7 @@ Happy Coding! 🎉
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2942-find-words-containing-character](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
