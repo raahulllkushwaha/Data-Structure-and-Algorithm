@@ -168,6 +168,7 @@ Happy Coding! 🎉
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -213,6 +214,7 @@ Happy Coding! 🎉
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0502-ipo) |
+| [0682-baseball-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -442,6 +444,7 @@ Happy Coding! 🎉
 | ------- |
 | [0043-multiply-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [1646-get-maximum-in-generated-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
