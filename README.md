@@ -79,6 +79,7 @@ Happy Coding! 🎉
 | [0043-multiply-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
 | [0372-super-pow](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0372-super-pow) |
@@ -415,6 +416,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [1646-get-maximum-in-generated-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
@@ -426,6 +428,7 @@ Happy Coding! 🎉
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 ## Geometry
