@@ -223,6 +223,7 @@ Happy Coding! 🎉
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1646-get-maximum-in-generated-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1646-get-maximum-in-generated-array) |
+| [1672-richest-customer-wealth](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -380,6 +381,7 @@ Happy Coding! 🎉
 | [0240-search-a-2d-matrix-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1672-richest-customer-wealth](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
