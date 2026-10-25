@@ -94,6 +94,7 @@ Happy Coding! 🎉
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
