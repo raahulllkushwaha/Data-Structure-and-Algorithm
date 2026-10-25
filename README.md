@@ -103,6 +103,7 @@ Happy Coding! 🎉
 | [2769-find-the-maximum-achievable-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3886-sum-of-sortable-integers) |
@@ -249,6 +250,7 @@ Happy Coding! 🎉
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
