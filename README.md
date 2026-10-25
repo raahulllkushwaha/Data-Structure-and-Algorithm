@@ -87,6 +87,7 @@ Happy Coding! 🎉
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1360-number-of-days-between-two-dates) |
+| [1486-xor-operation-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
@@ -281,6 +282,7 @@ Happy Coding! 🎉
 | [0191-number-of-1-bits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
