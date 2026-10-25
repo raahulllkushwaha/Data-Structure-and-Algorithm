@@ -133,6 +133,7 @@ Happy Coding! 🎉
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
+| [3019-number-of-changing-keys](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3019-number-of-changing-keys) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
 |  |
