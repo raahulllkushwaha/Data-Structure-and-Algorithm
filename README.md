@@ -225,6 +225,7 @@ Happy Coding! 🎉
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -295,6 +296,7 @@ Happy Coding! 🎉
 | [2089-find-target-indices-after-sorting-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3886-sum-of-sortable-integers) |
@@ -338,6 +340,7 @@ Happy Coding! 🎉
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -420,6 +423,7 @@ Happy Coding! 🎉
 | [1646-get-maximum-in-generated-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 ## Enumeration
 |  |
 | ------- |
