@@ -480,6 +480,7 @@ Happy Coding! 🎉
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0610-triangle-judgement) |
 | [3475-dna-pattern-recognition](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3475-dna-pattern-recognition) |
 ## Binary Indexed Tree
 |  |
