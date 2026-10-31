@@ -256,6 +256,7 @@ Happy Coding! 🎉
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
@@ -386,6 +387,7 @@ Happy Coding! 🎉
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -400,6 +402,7 @@ Happy Coding! 🎉
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
