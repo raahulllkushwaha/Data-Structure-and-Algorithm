@@ -83,6 +83,7 @@ Happy Coding! 🎉
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
 | [0372-super-pow](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0372-super-pow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -217,6 +218,7 @@ Happy Coding! 🎉
 | [0410-split-array-largest-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0502-ipo](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0502-ipo) |
 | [0682-baseball-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
