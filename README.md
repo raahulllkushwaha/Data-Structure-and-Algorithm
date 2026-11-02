@@ -154,6 +154,7 @@ Happy Coding! 🎉
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Happy Coding! 🎉
 | [0061-rotate-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
@@ -320,6 +322,7 @@ Happy Coding! 🎉
 | ------- |
 | [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -414,6 +417,7 @@ Happy Coding! 🎉
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
@@ -571,4 +575,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
