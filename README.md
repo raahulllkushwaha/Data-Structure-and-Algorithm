@@ -176,6 +176,7 @@ Happy Coding! 🎉
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
@@ -237,6 +238,7 @@ Happy Coding! 🎉
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
@@ -297,6 +299,7 @@ Happy Coding! 🎉
 | [0852-peak-index-in-a-mountain-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -340,6 +343,7 @@ Happy Coding! 🎉
 | [0502-ipo](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
