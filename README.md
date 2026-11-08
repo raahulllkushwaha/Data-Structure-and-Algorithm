@@ -239,6 +239,7 @@ Happy Coding! 🎉
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1550-three-consecutive-odds) |
@@ -426,6 +427,7 @@ Happy Coding! 🎉
 | [0240-search-a-2d-matrix-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3665-twisted-mirror-path-count) |
@@ -459,6 +461,7 @@ Happy Coding! 🎉
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+| [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 ## Trie
 |  |
@@ -484,6 +487,7 @@ Happy Coding! 🎉
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
@@ -539,6 +543,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -571,6 +576,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Euler's Totient Function
