@@ -270,6 +270,7 @@ Happy Coding! 🎉
 | [2942-find-words-containing-character](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
