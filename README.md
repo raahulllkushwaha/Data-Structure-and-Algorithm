@@ -66,6 +66,7 @@ Happy Coding! 🎉
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2747-count-zero-request-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -245,6 +246,7 @@ Happy Coding! 🎉
 | [0875-koko-eating-bananas](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -486,6 +488,7 @@ Happy Coding! 🎉
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 ## Trie
