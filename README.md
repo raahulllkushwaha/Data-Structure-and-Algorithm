@@ -147,6 +147,7 @@ Happy Coding! 🎉
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2942-find-words-containing-character](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3019-number-of-changing-keys) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -186,6 +187,7 @@ Happy Coding! 🎉
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Stack
 |  |
 | ------- |
@@ -437,6 +439,7 @@ Happy Coding! 🎉
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3693-climbing-stairs-ii) |
