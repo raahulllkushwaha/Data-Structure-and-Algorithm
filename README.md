@@ -148,6 +148,7 @@ Happy Coding! 🎉
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3019-number-of-changing-keys) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3841-palindromic-path-queries-in-a-tree) |
