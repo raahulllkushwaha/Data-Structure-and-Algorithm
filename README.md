@@ -286,6 +286,7 @@ Happy Coding! 🎉
 | [2942-find-words-containing-character](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -382,6 +383,7 @@ Happy Coding! 🎉
 | [2747-count-zero-request-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3886-sum-of-sortable-integers) |
@@ -447,6 +449,7 @@ Happy Coding! 🎉
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2063-vowels-of-all-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3693-climbing-stairs-ii) |
