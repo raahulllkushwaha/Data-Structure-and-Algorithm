@@ -244,6 +244,7 @@ Happy Coding! 🎉
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0502-ipo) |
+| [0566-reshape-the-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
@@ -468,6 +469,7 @@ Happy Coding! 🎉
 | [0074-search-a-2d-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0566-reshape-the-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
@@ -538,6 +540,7 @@ Happy Coding! 🎉
 | ------- |
 | [0043-multiply-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
