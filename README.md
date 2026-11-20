@@ -576,6 +576,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0182-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0610-triangle-judgement) |
 | [3475-dna-pattern-recognition](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3475-dna-pattern-recognition) |
 ## Binary Indexed Tree
