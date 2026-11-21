@@ -630,6 +630,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1114-print-in-order) |
+| [1116-print-zero-even-odd](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1116-print-zero-even-odd) |
 ## Depth-First Search
 |  |
 | ------- |
