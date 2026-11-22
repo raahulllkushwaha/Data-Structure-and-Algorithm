@@ -85,6 +85,7 @@ Happy Coding! 🎉
 | [0043-multiply-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
@@ -191,6 +192,7 @@ Happy Coding! 🎉
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0826-most-profit-assigning-work](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0826-most-profit-assigning-work) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -237,6 +239,7 @@ Happy Coding! 🎉
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
