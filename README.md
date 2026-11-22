@@ -109,6 +109,7 @@ Happy Coding! 🎉
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2652-sum-multiples](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
@@ -287,6 +288,7 @@ Happy Coding! 🎉
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2747-count-zero-request-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -395,6 +397,7 @@ Happy Coding! 🎉
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2747-count-zero-request-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
@@ -428,6 +431,7 @@ Happy Coding! 🎉
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -574,6 +578,7 @@ Happy Coding! 🎉
 | ------- |
 | [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
+| [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 ## Geometry
 |  |
