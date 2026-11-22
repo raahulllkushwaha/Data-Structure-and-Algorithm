@@ -64,6 +64,7 @@ Happy Coding! 🎉
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
@@ -251,6 +252,7 @@ Happy Coding! 🎉
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -383,6 +385,7 @@ Happy Coding! 🎉
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
