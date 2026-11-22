@@ -147,6 +147,7 @@ Happy Coding! 🎉
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2063-vowels-of-all-substrings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2063-vowels-of-all-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
