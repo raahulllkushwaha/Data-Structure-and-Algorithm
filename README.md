@@ -144,6 +144,7 @@ Happy Coding! 🎉
 | [1360-number-of-days-between-two-dates](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2063-vowels-of-all-substrings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2063-vowels-of-all-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -205,6 +206,7 @@ Happy Coding! 🎉
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
@@ -454,6 +456,7 @@ Happy Coding! 🎉
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2063-vowels-of-all-substrings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2063-vowels-of-all-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
