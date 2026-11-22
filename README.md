@@ -60,6 +60,7 @@ Happy Coding! 🎉
 | [0012-integer-to-roman](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
@@ -235,6 +236,7 @@ Happy Coding! 🎉
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -369,6 +371,7 @@ Happy Coding! 🎉
 | [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -487,6 +490,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
@@ -508,6 +512,7 @@ Happy Coding! 🎉
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
@@ -683,4 +688,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
