@@ -1,19 +1,14 @@
 class Solution {
     public int minimumDeletions(String s) {
-        int deleteCount = 0;
-        Stack<Character> stk = new Stack<>();
-        for(char ch : s.toCharArray()){
-            if(ch == 'b'){
-                stk.push(ch);
-            }
-            else {
-                // ch == a
-                if(!stk.isEmpty()){
-                    deleteCount++;
-                    stk.pop();
-                }
+        int ans = 0;
+        int bCount = 0;
+        for(char c : s.toCharArray()) {
+            if(c == 'b') {
+                bCount++;
+            } else {
+                ans = Math.min(1 + ans, bCount);
             }
         }
-        return deleteCount;
+        return ans;
     }
 }
