@@ -66,6 +66,7 @@ Happy Coding! 🎉
 | [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -94,6 +95,7 @@ Happy Coding! 🎉
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
@@ -258,6 +260,7 @@ Happy Coding! 🎉
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0502-ipo) |
+| [0523-continuous-subarray-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
@@ -483,6 +486,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
@@ -714,4 +718,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
