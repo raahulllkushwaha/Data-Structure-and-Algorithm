@@ -143,6 +143,7 @@ Happy Coding! 🎉
 | [0301-remove-invalid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0709-to-lower-case) |
@@ -487,6 +488,7 @@ Happy Coding! 🎉
 | [0410-split-array-largest-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1653-minimum-deletions-to-make-string-balanced) |
