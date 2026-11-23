@@ -75,6 +75,7 @@ Happy Coding! 🎉
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -118,6 +119,7 @@ Happy Coding! 🎉
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -311,6 +313,7 @@ Happy Coding! 🎉
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -509,6 +512,7 @@ Happy Coding! 🎉
 | [1254-number-of-closed-islands](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
