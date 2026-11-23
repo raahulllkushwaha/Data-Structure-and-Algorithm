@@ -306,6 +306,7 @@ Happy Coding! 🎉
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2860-happy-students](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2860-happy-students) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -412,6 +413,7 @@ Happy Coding! 🎉
 | [2567-minimum-score-by-changing-two-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2747-count-zero-request-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2747-count-zero-request-servers) |
+| [2860-happy-students](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2860-happy-students) |
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -589,6 +591,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2860-happy-students](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2860-happy-students) |
 | [3886-sum-of-sortable-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
