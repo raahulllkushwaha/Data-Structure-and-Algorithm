@@ -1,21 +1,28 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
-        for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            map.put(ch, i);
+        int[] last = new int[26];
+
+        // Store the last occurrence of each character
+        for (int i = 0; i < s.length(); i++) {
+            last[s.charAt(i) - 'a'] = i;
         }
-        List<Integer> res = new ArrayList<>();
-        int prev = -1;
-        int max = 0;
-        for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            max = Math.max(max, map.get(ch));
-            if(max == i){
-                res.add(max - prev);
-                prev = max;
+
+        List<Integer> result = new ArrayList<>();
+
+        int start = 0;
+        int end = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            end = Math.max(end, last[s.charAt(i) - 'a']);
+
+            // Current partition is complete
+            if (i == end) {
+                result.add(end - start + 1);
+                start = i + 1;
             }
         }
-        return res;
+
+        return result;
     }
 }
