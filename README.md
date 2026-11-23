@@ -152,6 +152,7 @@ Happy Coding! 🎉
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1946-largest-number-after-mutating-substring](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1946-largest-number-after-mutating-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2063-vowels-of-all-substrings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2063-vowels-of-all-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -287,6 +288,7 @@ Happy Coding! 🎉
 | [1822-sign-of-the-product-of-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
+| [1946-largest-number-after-mutating-substring](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1946-largest-number-after-mutating-substring) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -437,6 +439,7 @@ Happy Coding! 🎉
 | [0826-most-profit-assigning-work](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0826-most-profit-assigning-work) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1946-largest-number-after-mutating-substring](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1946-largest-number-after-mutating-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
