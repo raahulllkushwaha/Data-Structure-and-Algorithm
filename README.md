@@ -68,6 +68,7 @@ Happy Coding! 🎉
 | [0451-sort-characters-by-frequency](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2747-count-zero-request-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2747-count-zero-request-servers) |
@@ -145,6 +146,7 @@ Happy Coding! 🎉
 | [0657-robot-return-to-origin](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
@@ -202,6 +204,7 @@ Happy Coding! 🎉
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
+| [0763-partition-labels](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0826-most-profit-assigning-work) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -440,6 +443,7 @@ Happy Coding! 🎉
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0502-ipo) |
+| [0763-partition-labels](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0826-most-profit-assigning-work) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
