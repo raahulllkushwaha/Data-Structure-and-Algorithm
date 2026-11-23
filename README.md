@@ -160,6 +160,7 @@ Happy Coding! 🎉
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
@@ -292,6 +293,7 @@ Happy Coding! 🎉
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
