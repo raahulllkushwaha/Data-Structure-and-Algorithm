@@ -139,6 +139,7 @@ Happy Coding! 🎉
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0131-palindrome-partitioning](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
@@ -220,6 +221,7 @@ Happy Coding! 🎉
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
@@ -234,6 +236,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -498,6 +501,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
