@@ -298,6 +298,7 @@ Happy Coding! 🎉
 | [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2747-count-zero-request-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
+| [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -489,6 +490,7 @@ Happy Coding! 🎉
 | [0523-continuous-subarray-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
