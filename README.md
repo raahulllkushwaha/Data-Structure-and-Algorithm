@@ -143,6 +143,7 @@ Happy Coding! 🎉
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
