@@ -110,6 +110,7 @@ Happy Coding! 🎉
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1688-count-of-matches-in-tournament](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2063-vowels-of-all-substrings) |
 | [2235-add-two-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2409-count-days-spent-together) |
@@ -309,6 +310,7 @@ Happy Coding! 🎉
 | [1882-process-tasks-using-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 | [1946-largest-number-after-mutating-substring](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1946-largest-number-after-mutating-substring) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -632,6 +634,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
@@ -773,4 +776,12 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
