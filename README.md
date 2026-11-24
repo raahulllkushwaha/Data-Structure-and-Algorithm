@@ -125,6 +125,7 @@ Happy Coding! 🎉
 | [2965-find-missing-and-repeated-values](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -339,6 +340,7 @@ Happy Coding! 🎉
 | [3232-find-if-digit-game-can-be-won](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -624,6 +626,7 @@ Happy Coding! 🎉
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2860-happy-students](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2860-happy-students) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
@@ -632,6 +635,7 @@ Happy Coding! 🎉
 | [2413-smallest-even-multiple](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2607-make-k-subarray-sums-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2607-make-k-subarray-sums-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2748-number-of-beautiful-pairs) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
 | ------- |
@@ -694,6 +698,7 @@ Happy Coding! 🎉
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2747-count-zero-request-servers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Concurrency
