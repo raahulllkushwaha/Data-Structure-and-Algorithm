@@ -127,6 +127,7 @@ Happy Coding! 🎉
 | [2965-find-missing-and-repeated-values](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -627,6 +628,7 @@ Happy Coding! 🎉
 | [1929-concatenation-of-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
