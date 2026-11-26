@@ -106,6 +106,7 @@ Happy Coding! 🎉
 | [1352-product-of-the-last-k-numbers](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -519,6 +520,7 @@ Happy Coding! 🎉
 | [0435-non-overlapping-intervals](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
+| [1510-stone-game-iv](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -802,4 +804,24 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/3934-smallest-unique-subarray) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
