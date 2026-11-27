@@ -92,6 +92,7 @@ Happy Coding! 🎉
 | [0043-multiply-strings](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
@@ -514,6 +515,7 @@ Happy Coding! 🎉
 | ------- |
 | [0022-generate-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
@@ -600,6 +602,7 @@ Happy Coding! 🎉
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
