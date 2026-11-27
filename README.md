@@ -60,6 +60,7 @@ Happy Coding! 🎉
 | [0012-integer-to-roman](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -198,6 +199,7 @@ Happy Coding! 🎉
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Happy Coding! 🎉
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0763-partition-labels](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0826-most-profit-assigning-work) |
