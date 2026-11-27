@@ -215,6 +215,7 @@ Happy Coding! 🎉
 | ------- |
 | [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
@@ -262,6 +263,7 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
