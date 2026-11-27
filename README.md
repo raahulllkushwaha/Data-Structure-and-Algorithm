@@ -219,6 +219,7 @@ Happy Coding! 🎉
 | [0061-rotate-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
@@ -267,6 +268,7 @@ Happy Coding! 🎉
 | [0046-permutations](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -428,6 +430,7 @@ Happy Coding! 🎉
 | ------- |
 | [0018-4sum](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
