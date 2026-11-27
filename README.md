@@ -200,12 +200,14 @@ Happy Coding! 🎉
 | [0086-partition-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/raahulllkushwaha/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 ## Two Pointers
